@@ -2,6 +2,6 @@
 // Anon/publishable key AMAN ditaruh di sini (memang untuk publik), JANGAN pakai service_role key!
 window.ELEARNMATH_CONFIG = {
      SUPABASE_URL: "https://ozoaiageewckockhtsnq.supabase.co",
-     SUPABASE_ANON_KEY: "sb_publishable_...tempel kunci lengkap dari Supabase...",
+     SUPABASE_ANON_KEY: "sb_publishable_IpxcOwaMncGxkhxxUsSPXQ_vWNi91Wo",
   POLL_MS: 8000   // seberapa sering cek data baru dari pengguna lain (ms)
 };
